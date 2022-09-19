@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [SOLUTION](https://your-solution-url.com)
-- Live Site URL: [LIVE SITE](https://your-live-site-url.com)
+- Solution URL: [SOLUTION](https://www.frontendmentor.io/solutions/faq-accordion-card-using-css-flexbox-and-vanilla-js-WodkZk38Mm)
+- Live Site URL: [LIVE SITE](https://azizp128.github.io/Faq-Accordion-Card/)
 
 ## My process
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned a lot of things in this challenge, especially about the floating elements. There are new things like using <picture> and srcset to use many images in different situations.
+I learned a lot of things in this challenge, especially about the floating elements. There are new things like using HTML picture element and srcset to use many images in different situations.
 
 To see how you can add code snippets, see below:
 
